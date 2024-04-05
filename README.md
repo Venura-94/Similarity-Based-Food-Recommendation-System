@@ -15,6 +15,5 @@
 
 - Task 5: Build a similarity based recommendation system based on collaborative filtering  
 
-## Final conclusion
-
+# Check the notebook for more details
 
