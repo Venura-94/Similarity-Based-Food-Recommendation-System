@@ -17,7 +17,7 @@
 
 # Pipeline Architecture for recommendations
 
-
+![image](https://github.com/Venura-94/Similarity-Based-Food-Recommendation-System/assets/137409412/5c261349-225b-4637-9e4b-e33fe43d63d2)
 
 
 
