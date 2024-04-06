@@ -9,11 +9,20 @@
 
 - Task 2: Perform exploratory data analysis on the dataset to observe the user interactions with the item, for example which item is the most interacted item and which user has interacted with most items etc  
 
-- Task 3: How to create user item matrix to start building the collaborative recommendation system  
+- Task 3: Create user item matrix to start building the collaborative recommendation system  
 
-- Task 4: Find which users are most similar to the other users from user time matrix, this will help to recommend items to the users which the other similar users have interacted with  
+- Task 4: Find which users are most similar to the other users from user time matrix(Cosine similarity - Nearest neighbors are then determined based on these similarity scores), this will help to recommend items to the users which the other similar users have interacted with  
 
 - Task 5: Build a similarity based recommendation system based on collaborative filtering  
 
-# Check the notebook for more details
+# Pipeline Architecture for predictions 
+
+
+
+
+
+
+
+
+
 
