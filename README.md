@@ -15,7 +15,7 @@
 
 - Task 5: Build a similarity based recommendation system based on collaborative filtering  
 
-# Pipeline Architecture for predictions 
+# Pipeline Architecture for recommendations
 
 
 
