@@ -19,6 +19,38 @@
 
 ![image](https://github.com/Venura-94/Similarity-Based-Food-Recommendation-System/assets/137409412/5c261349-225b-4637-9e4b-e33fe43d63d2)
 
+## How Cosine similarity works in this particular case
+Let's consider a scenario where we have two users and their ratings for only two items:
+
+User 1: [4, 5]
+User 2: [2, 3]
+
+In this simplified example, each user's vector represents their ratings for two items. Now, let's calculate the cosine similarity between these two vectors:
+
+- Dot product of the two vectors:
+  \( 4 \times 2 + 5 \times 3 = 8 + 15 = 23 \)
+
+- Magnitudes of the vectors:
+  \( \|User\_1\| = \sqrt{4^2 + 5^2} = \sqrt{16 + 25} = \sqrt{41} \)  
+  \( \|User\_2\| = \sqrt{2^2 + 3^2} = \sqrt{4 + 9} = \sqrt{13} \)
+
+- Cosine similarity:
+  \( \text{cos}(\theta) = \frac{23}{\sqrt{41} \times \sqrt{13}} \)
+
+Now, let's visualize these vectors:
+   (4, 5)  User 1
+       *
+          \
+           \
+            \
+             \
+              \
+               \
+                \
+(2, 3)  *---------*  User 2
+
+
+
 
 
 
